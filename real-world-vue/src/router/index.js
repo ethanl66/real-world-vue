@@ -23,7 +23,6 @@ const routes = [
     name: 'event-create',
     component: EventCreate,
   },
-
   /*   {
     path: '/about',
     redirect: { name: 'About' },
